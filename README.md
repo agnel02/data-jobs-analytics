@@ -11,7 +11,7 @@ Exploring what the data job market actually looks like — through real data, re
 
 Overview
 
-I built this project because I wanted a real answer to a question a lot of people in data have but rarely dig into properly — what do companies actually want, what do they pay, and where are the opportunities?
+I built this project because I wanted a real answer to a question a lot of people in data have but rarely dig into properly what do companies actually want, what do they pay, and where are the opportunities?
 
 Not what career blogs say. Not what course curriculums assume. What shows up in real job postings, at scale.
 
