@@ -203,4 +203,4 @@ If you are figuring out what to learn, where to apply, or what to expect in term
 ---
 
 787,686 job postings analyzed  —  MySQL  —  Python  —  Power BI
-github.com/agnel02/data-jobs-analytics
+github.com/jebasagnel/data-jobs-analytics
