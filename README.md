@@ -42,10 +42,9 @@ The four tables are connected through foreign keys. Job postings link to compani
 
 Note: CSV files are stored in this repository using Git LFS due to their size. You may need to run git lfs pull after cloning to download them locally.
 
----
-
 Project Structure
 
+```
 SQL_PROJECT/
 │
 ├── DASHBOARD/
@@ -76,8 +75,7 @@ SQL_PROJECT/
 ├── .gitattributes
 ├── .gitignore
 └── README.md
-
----
+```
 
 Part 1 — SQL Analysis (MySQL)
 
