@@ -169,7 +169,7 @@ A small number of companies account for a large share of postings. Knowing what 
 Getting Started
 
 1. Clone the repository
-   git clone https://github.com/agnel02/SQL_PROJECT.git
+   git clone https://github.com/jebasagnel/data-jobs-analytics.git
 
 2. Pull the CSV files via Git LFS
    git lfs pull
