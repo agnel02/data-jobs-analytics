@@ -146,6 +146,7 @@ A table view of where the most opportunities are concentrated globally for the s
 
 Job listings table
 The most detailed view in the dashboard. Each row shows the company logo, job title, posting date, company name, and a direct link to apply.
+
 ---
 
 Key Findings
