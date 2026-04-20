@@ -1,3 +1,5 @@
 /.vscode
 *.csv
-*.csv
+.vscode
+__pycache__
+*.pyc
